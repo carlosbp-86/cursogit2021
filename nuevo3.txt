@@ -1,0 +1,1 @@
+ver si pongo git pull a secas desde rama dev local si me trae dev 
